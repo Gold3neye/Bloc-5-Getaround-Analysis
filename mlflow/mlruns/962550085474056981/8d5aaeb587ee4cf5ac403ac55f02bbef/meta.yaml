@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/melchiorpedro-rousselin/Data%20science/Jedha-2024/Jedha_ds/Projets/Bloc-5-Getaround%20Analysis/mlflow/mlruns/962550085474056981/8d5aaeb587ee4cf5ac403ac55f02bbef/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '962550085474056981'
+lifecycle_stage: active
+run_id: 8d5aaeb587ee4cf5ac403ac55f02bbef
+run_name: skillful-turtle-467
+run_uuid: 8d5aaeb587ee4cf5ac403ac55f02bbef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727697154120
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,6 @@
+artifact_location: file:///home/gmeyer/projects/getaround-deployment/mlruns/364224981275224495
+creation_time: 1727477240518
+experiment_id: '364224981275224495'
+last_update_time: 1727477240518
+lifecycle_stage: active
+name: car_rental_price

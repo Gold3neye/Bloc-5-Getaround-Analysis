@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/melchiorpedro-rousselin/Data%20science/Jedha-2024/Jedha_ds/Projets/Bloc-5-Getaround%20Analysis/mlflow/mlruns/962550085474056981/8541f36f32264e888b06e6098c0b7cc2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '962550085474056981'
+lifecycle_stage: active
+run_id: 8541f36f32264e888b06e6098c0b7cc2
+run_name: handsome-wren-214
+run_uuid: 8541f36f32264e888b06e6098c0b7cc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727697439468
+status: 1
+tags: []
+user_id: unknown

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/melchiorpedro-rousselin/Data%20science/Jedha-2024/Jedha_ds/Projets/Bloc-5-Getaround%20Analysis/mlflow/mlruns/962550085474056981/14eb986b132141879273425b6b12b76a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '962550085474056981'
+lifecycle_stage: active
+run_id: 14eb986b132141879273425b6b12b76a
+run_name: bittersweet-rook-619
+run_uuid: 14eb986b132141879273425b6b12b76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730294904219
+status: 1
+tags: []
+user_id: unknown
